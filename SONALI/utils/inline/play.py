@@ -40,25 +40,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "🅢—————————"
+        bar = "🇷—————————"
     elif 10 < umm < 20:
-        bar = "—🅞————————"
+        bar = "—𝐢————————"
     elif 20 <= umm < 30:
-        bar = "——🅝———————"
+        bar = "——𝐲———————"
     elif 30 <= umm < 40:
-        bar = "———🅐——————"
+        bar = "———𝐚——————"
     elif 40 <= umm < 50:
         bar = "————♡—————"
     elif 50 <= umm < 60:
-        bar = "—————🅡————"
+        bar = "—————𝐌————"
     elif 60 <= umm < 70:
-        bar = "——————🅐———"
+        bar = "——————𝐮———"
     elif 70 <= umm < 80:
-        bar = "———————🅙——"
+        bar = "———————𝐬——"
     elif 80 <= umm < 95:
-        bar = "————————🅐—"
+        bar = "————————𝐢—"
     else:
-        bar = "—————————♡"
+        bar = "—————————𝐜"
 
     buttons = [
         [
@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/WORLD_ALPHA",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/KSD_BOT_NETWORK",
             ),
             InlineKeyboardButton(
-                text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/+Q25anL0Ckuk5NzM1",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/Team_riya_support",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/WORLD_ALPHA",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/KSD_BOT_NETWORK",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/+Q25anL0Ckuk5NzM1",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/Team_riya_support",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -433,4 +433,4 @@ def telegram_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close"),
         ],
     ]
-    return buttons
+    return buttons)
