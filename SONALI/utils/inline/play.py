@@ -79,7 +79,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/KSD_BOT_NETWORK",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/Team_riya_support",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/TEAM_RIYA_SUPPORT",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -433,4 +433,4 @@ def telegram_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="close"),
         ],
     ]
-    return buttons)
+    return buttons
