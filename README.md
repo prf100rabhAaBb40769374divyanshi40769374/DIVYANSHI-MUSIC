@@ -1,52 +1,106 @@
-# 𝗦𝗢𝗡𝗔𝗟𝗜-𝗠𝗨𝗦𝗜𝗖 
-➥ 𝖧ᴇʀᴏᴋᴜ 𝖭ᴇᴡ 𝖤ʀʀᴏʀ 𝖥ɪxᴇᴅ 𝖱ᴇᴘᴏ 𝖣ᴇᴘʟᴏʏ 𝖭ᴏᴡ ✔️ 
- ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
-  ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ 👨🏻‍💻
-<h1 align="center"
- 
-### 🚩🚩 जय बजरंग बली 🚩🚩
-<h1 align="center"
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗥𝗔𝗨𝗦𝗛𝗔𝗡+𝗞𝗜𝗡𝗚+𝗔𝗥𝗔+🚩+🍁"></b></h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://telegra.ph/file/207afbc175113d14d1231.jpg" width="400"></a></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+━━━━━━━━━━━━━━━━
+### 🍁 𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦 🍁
+
+<!--
+**PROFESSOR-SOURABH/PROFESSOR-MUSIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=SONALI_MUSIC&theme=flag-india)
-
-[![GIF](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/TEAMPURVI.gif)](https://github.com/TEAMPURVI)
-   [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
-
-
-
-</p>
-ʀᴀᴜsʜᴀɴ
 <p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/PROFESSOR-SOURABHA/count.svg" />
 </p>
+
+
+
+
+<h2 align="center">
+    𖢵 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗠𝗨𝗦𝗜𝗖 𖢵
+
+★ 𝗛𝗘𝗥𝗢𝗞𝗨 + 𝗩𝗣𝗦 ★
+
+<p align='center'>
+  <img src="https://img.shields.io/github/forks/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/PROFESSOR-SOURABH/PROFESSOR-MUSIC?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PROFESSOR-SOURABH/PROFESSOR-MUSIC&amp;title=Repo%20Views" alt="Views">
+</p>
+
+<p align='center'>
+  <a href="https://t.me/PROFESSOR_NETWORK" alt="MADE-BY-SOURABH"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦ᴅᴇᴘʟᴏʏ+ᴏɴ+ʜᴇʀᴏᴋᴜ♦;♨️+ɴᴏ+ʜᴇʀᴏᴋᴜ+ʙᴀɴ+ɪssᴜᴇ+ᴀʟsᴏ+ᴠᴘs+ᴅᴇᴘʟᴏʏ+📍+ᴘʀᴇsᴇɴᴛ;🎭+ᴘᴏᴡᴇʀᴇᴅ+ʙʏ+𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥+🎭">
+<p align="center">
+  <img src="https://telegra.ph/file/205f3cf027a5a11f5f70e.jpg">
+</p>
+
+**𝗧𝗘𝗦𝗧 𝗕𝗢𝗧 ➣ [](https://t.me/PROFESSOR_SUKOON_BOT)**
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAMRIYAMUSIC/SONALI_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/prf100rabhAaBb40769374divyanshi40769374/PROFESSOR-MUSIC)
 
+## 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋 𝐕𝐈𝐃𝐄𝐎 𝐎𝐍 𝐘𝐎𝐔𝐓𝐔𝐁𝐄
 
+- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
 
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMPURVI&show_icons=true&locale=en&layout=compact" alt="ʀᴀᴊᴀ ʙᴀʙᴜ" /></p>
+<h2 align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/TEAMPURVI/SONALI_MUSIC/graphs/contributors)
+🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
+[![ALONE](https://telegra.ph/file/101e1046e2fbbd1c3aa48.jpg)](https://telegram.me/SOURABH_OWNER)
+</p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
-### Contact :
-<a href="https://t.me/ll_ALPHA_BABY_lll"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=raushankumarpal03com@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://instagram.com/king_raushan_02"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+- Get your [Necessary Variables](https://github.com/PROFESSOR-SOURABH/PROFESSOR-MUSIC/blob/master/sample.env)
+- Upgrade and Update by :
+`sudo apt-get update && sudo apt-get upgrade -y`
+- Install Ffmpeg by :
+`sudo apt-get install python3-pip ffmpeg -y`
+- Install required packages by :
+`sudo apt-get install python3-pip -y`
+- Install pip by :
+`sudo pip3 install -U pip`
+- Install Node js by :
+`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+- Clone the repository by :
+`git clone https://github.com/PROFESSOR-SOURABH/PROFESSOR-MUSIC && cd AloneXMusic`
+- Install requirements by :
+`pip3 install -U -r requirements.txt`
+- Fill your variables in the env by :
+`vi sample.env`<br>
+Press `I` on the keyboard for editing env<br>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+- Rename the env file by :
+`mv sample.env .env`
+- Install tmux to keep running your bot when you close the terminal by :
+`sudo apt install tmux && tmux`
+- Finally run the bot by :
+`bash start`
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/Friends_Chatting_Masti_Group"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/Friends_Chatting_Masti_Group"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
