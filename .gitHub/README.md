@@ -22,7 +22,7 @@ GO TO [RELOAD.PY](https://github.com/qnxanjali/SUHANIMUSIC/blob/Master/SUHANIMUS
 </p>
 
 <h3 align="center">
-   <a href="https://dashboard.heroku.com/new?template=https://github.com/qnxanjali/SUHANIMUSIC"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="200""/></a>
+   <a href="https://dashboard.heroku.com/new?template=https://github.com/prf100rabhAaBb40769374divyanshi40769374/DIVYANSHI-MUSIC"><img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="200""/></a>
    
 </h3>
 
