@@ -2,24 +2,15 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from SUHANIMUSIC import app
 from config import BOT_USERNAME
-from SUHANIMUSIC.utils.errors import capture_err
-import httpx 
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-start_txt = """**
-✪ ωεℓᴄσмє fσʀ ѕυнαиι ʀєρσѕ ✪
+start_txt = """
+⌾ ᴡᴇʟᴄᴏᴍᴇ ғᴏʀ sᴏᴜʀᴀʙʜ ʀᴇᴘᴏs ⌾
 
- ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
- 
- ➲ ɴᴏ ʜᴇʀᴏᴋᴜ ʙᴀɴ ɪssᴜᴇ ✰
- 
- ➲ ɴᴏ ɪᴅ ʙᴀɴ ɪssᴜᴇ ✰
- 
- ➲ ᴜɴʟɪᴍɪᴛᴇᴅ ᴅʏɴᴏs ✰
- 
- ➲ ʀᴜɴ 24x7 ʟᴀɢ ғʀᴇᴇ ᴡɪᴛʜᴏᴜᴛ sᴛᴏᴘ ✰
- 
- ► ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ sᴇɴᴅ ss
+◎ ʙʜᴀɢ ʙʜᴏsᴅɪᴋᴇ
+
+◎ ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ ʀᴀɴᴅɪ ᴋᴇ.
+
+◎ ʀᴇᴘᴏ ᴛᴏ ɴᴀ ᴅᴜɴɢᴀ.
 **"""
 
 
@@ -29,47 +20,34 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("𝗔𝗗𝗗 𝗦𝗨𝗛𝗔𝗡𝗜", url=f"https://t.me/Suhani_X_Music_bot?startgroup=true")
+          InlineKeyboardButton("⦿ ＡＤＤ ＭＥ ＢＡＢＹ ⦿", url=f"https://t.me/DIVYANSHI_MUSIC_BOT?startgroup=True&admin=delete_messages+invite_users+pin_messages")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/VENOM_PRATAP"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/VENOM_PRATAP"),
+          InlineKeyboardButton("⦿ ʜᴇʟᴘ ⦿", url="https://t.me/PROFESSORxNETWORK"),
+          InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/SOURABH_100RABH"),
           ],
                [
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/venompratapchat"),
+                InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ɴᴇᴛᴡᴏʀᴋ ⦿", url="https://t.me/PROFESSOR_NETWORK"),
 
-]]
+],
+[
+              InlineKeyboardButton("⦿ ᴜsᴇʀʙᴏᴛ ⦿", url=f"https://t.me/PROFESSOR_X_USERBOT"),
+              InlineKeyboardButton("︎⦿ ᴍᴜsɪᴄ ʀᴇᴘᴏ ⦿", url=f"https://t.me/sourabh_100rabh"),
+       
+    ],
+    [
+              InlineKeyboardButton("⦿ sᴛʀɪɴɢ ɢᴇɴ ⦿", url=f"https://t.me/String_Generate_op_bot"),
+              InlineKeyboardButton("︎⦿ sᴛʀɪɴɢ ʜᴀᴄᴋ ⦿", url=f"https://t.me/ProfessorStringHackRobot"),
+       
+    ],
+    [ 
+          InlineKeyboardButton("⦿ ᴊᴏɪɴ ғᴏʀ sᴘᴀᴍ ʙᴏᴛ sᴜᴅᴏ ⦿", url=f"https://t.me/Professorxnetwork")
+        ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://envs.sh/10o.jpg",
+        photo="https://telegra.ph/file/c682fa28e16f8b85756ea.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
- 
-   
-# --------------
-
-
-@app.on_message(filters.command("repo", prefixes="#"))
-@capture_err
-async def repo(_, message):
-    async with httpx.AsyncClient() as client:
-        response = await client.get("https://api.github.com/repos/Infamous-Hydra/YaeMiko/contributors")
-    
-    if response.status_code == 200:
-        users = response.json()
-        list_of_users = ""
-        count = 1
-        for user in users:
-            list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
-            count += 1
-
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/Infamous-Hydra/YaeMiko) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/venompratapchat)
-| 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
-----------------
-{list_of_users}"""
-        await app.send_message(message.chat.id, text=text, disable_web_page_preview=True)
-    else:
-        await app.send_message(message.chat.id, text="Failed to fetch contributors.")
