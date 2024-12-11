@@ -6,7 +6,7 @@ from SUHANIMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "VENOMPRATAP"
+MUST_JOIN = "PROFESSORxBOTS"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
